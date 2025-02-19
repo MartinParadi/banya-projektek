@@ -1,0 +1,15 @@
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\bin\Debug\net8.0\Banya_Alkalmazas.exe
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\bin\Debug\net8.0\Banya_Alkalmazas.deps.json
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\bin\Debug\net8.0\Banya_Alkalmazas.runtimeconfig.json
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\bin\Debug\net8.0\Banya_Alkalmazas.dll
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\bin\Debug\net8.0\Banya_Alkalmazas.pdb
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\obj\Debug\net8.0\Banya_Alkalmazas.GeneratedMSBuildEditorConfig.editorconfig
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\obj\Debug\net8.0\Banya_Alkalmazas.AssemblyInfoInputs.cache
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\obj\Debug\net8.0\Banya_Alkalmazas.AssemblyInfo.cs
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\obj\Debug\net8.0\Banya_Alkalmazas.csproj.CoreCompileInputs.cache
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\obj\Debug\net8.0\Banya_Alkalmazas.sourcelink.json
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\obj\Debug\net8.0\Banya_Alkalmazas.dll
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\obj\Debug\net8.0\refint\Banya_Alkalmazas.dll
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\obj\Debug\net8.0\Banya_Alkalmazas.pdb
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\obj\Debug\net8.0\Banya_Alkalmazas.genruntimeconfig.cache
+Z:\11.év\Projektek\banya-projekt\Banya_Alkalmazas\Banya_Alkalmazas\obj\Debug\net8.0\ref\Banya_Alkalmazas.dll
