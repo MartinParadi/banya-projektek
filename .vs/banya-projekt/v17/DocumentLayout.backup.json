@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\11.\u00E9v\\Projektek\\banya-projekt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F4A0558-4802-40F4-A6DE-4D90A81B1763}|banya-projekt.csproj|z:\\11.\u00E9v\\projektek\\banya-projekt\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{1F4A0558-4802-40F4-A6DE-4D90A81B1763}|banya-projekt.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "Z:\\11.\u00E9v\\Projektek\\banya-projekt\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "Z:\\11.\u00E9v\\Projektek\\banya-projekt\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-02-14T07:38:57.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
