@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "banya-projekt", "banya-projekt.csproj", "{1F4A0558-4802-40F4-A6DE-4D90A81B1763}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banya_projekt", "teszt\Banya_projekt.csproj", "{14D0D1BA-5BF3-421E-95AB-9403BC2E86CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1F4A0558-4802-40F4-A6DE-4D90A81B1763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1F4A0558-4802-40F4-A6DE-4D90A81B1763}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1F4A0558-4802-40F4-A6DE-4D90A81B1763}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1F4A0558-4802-40F4-A6DE-4D90A81B1763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D0D1BA-5BF3-421E-95AB-9403BC2E86CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D0D1BA-5BF3-421E-95AB-9403BC2E86CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D0D1BA-5BF3-421E-95AB-9403BC2E86CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D0D1BA-5BF3-421E-95AB-9403BC2E86CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4ACAD6EF-7FC9-4918-9CC2-2C2BC8CB8316}
+		SolutionGuid = {A6E2AA8C-C1B6-4F37-91B0-063FF8147E52}
 	EndGlobalSection
 EndGlobal
